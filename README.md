@@ -1,10 +1,6 @@
-Here's a **brief description** and a **beautifully structured `README.md`** for your Woman Safety App GitHub repository.
-
----
-
 # Woman Safety App
 
-Welcome to the **Woman Safety App** – a solution designed to enhance the safety of women using cutting-edge **machine learning** and **web technology**. This app offers real-time safety features like danger detection, location sharing, and emergency contact alerts, ensuring rapid response in critical situations.
+Welcome to the **Woman Safety App** – a solution designed to enhance the safety of women using cutting-edge **machine learning** and **web technology**. This app offers real-time safety features like danger detection, location sharing, and emergency contact addt alerts, ensuring rapid response in critical situations.
 
 Our aim is to provide a reliable tool that empowers women by leveraging the latest advancements in technology.
 
